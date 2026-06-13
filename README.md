@@ -19,7 +19,7 @@ Notebook korzysta z pliku CSV zawierającego dane z portalu Otodom.pl
 ## Zad 2.
 **Analiza ofert z portalu Zegluj.pl**
 
-<a href="https://colab.research.google.com/github" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Matix732/wizualizacja-danych-uj/blob/main/zegluj.ipynb)
 
 Notebook korzysta z pliku CSV zawierającego dane z portalu Zegluj.pl  
 
